@@ -1,0 +1,1 @@
+<!doctype html><html><body>Admin Dashboard</body></html>

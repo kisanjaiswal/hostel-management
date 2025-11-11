@@ -1,0 +1,1 @@
+<!doctype html><html><body>Allocate Room</body></html>

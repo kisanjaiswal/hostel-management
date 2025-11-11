@@ -1,0 +1,1 @@
+<!doctype html><html><body>Manage Rooms</body></html>
